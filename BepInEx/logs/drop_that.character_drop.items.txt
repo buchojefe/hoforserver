@@ -1,0 +1,354 @@
+[Blob.0]
+ConditionHasItem=blob_attack_aoe
+
+[BlobElite.0]
+ConditionHasItem=blobelite_attack_aoe
+
+[BlobTar.0]
+ConditionHasItem=blobtar_attack
+
+[Boar.0]
+ConditionHasItem=boar_base_attack
+
+[Bonemass.0]
+ConditionHasItem=bonemass_attack_aoe, bonemass_attack_punch, bonemass_attack_throw
+
+[Deathsquito.0]
+ConditionHasItem=Deathsquito_sting
+
+[Deer.0]
+ConditionHasItem=
+
+[Dragon.0]
+ConditionHasItem=dragon_taunt, dragon_bite, dragon_claw_left, dragon_claw_right, dragon_spit_shotgun, dragon_coldbreath
+
+[Draugr.0]
+ConditionHasItem=ShieldWood, ShieldBanded, draugr_axe, draugr_bow
+
+[Draugr_Elite.0]
+ConditionHasItem=draugr_sword
+
+[Draugr_Ranged.0]
+ConditionHasItem=draugr_bow
+
+[Eikthyr.0]
+ConditionHasItem=Eikthyr_antler, Eikthyr_charge, Eikthyr_stomp
+
+[Fenring.0]
+ConditionHasItem=Fenring_taunt, Fenring_attack_claw, Fenring_attack_jump
+
+[gd_king.0]
+ConditionHasItem=gd_king_rootspawn, gd_king_scream, gd_king_shoot, gd_king_stomp
+
+[Goblin.0]
+ConditionHasItem=GoblinLoin, GoblinHelmet, GoblinArmband, GoblinShoulders, GoblinLegband, ShieldWood, GoblinClub, GoblinSpear, GoblinSword, GoblinTorch
+
+[GoblinArcher.0]
+ConditionHasItem=GoblinLoin, GoblinHelmet, GoblinArmband, GoblinShoulders, GoblinLegband, ShieldWood, GoblinSpear
+
+[GoblinBrute.0]
+ConditionHasItem=GoblinBrute_Attack, GoblinBrute_RageAttack, GoblinBrute_Taunt, GoblinBrute_ArmGuard, GoblinBrute_Backbones, GoblinBrute_HipCloth, GoblinBrute_ShoulderGuard, GoblinBrute_LegBones, GoblinBrute_ExecutionerCap
+
+[GoblinKing.0]
+ConditionHasItem=GoblinKing_Beam, GoblinKing_Meteors, GoblinKing_Nova, GoblinKing_Taunt
+
+[GoblinShaman.0]
+ConditionHasItem=GoblinShaman_attack_protect, GoblinShaman_attack_poke, GoblinShaman_attack_fireball, GoblinShaman_Staff_Bones, GoblinShaman_Headdress_antlers, GoblinShaman_Staff_Feathers, GoblinShaman_Headdress_feathers
+
+[Greydwarf.0]
+ConditionHasItem=Greydwarf_attack, Greydwarf_throw
+
+[Greydwarf_Elite.0]
+ConditionHasItem=Greydwarf_elite_attack
+
+[Greydwarf_Shaman.0]
+ConditionHasItem=Greydwarf_shaman_attack, Greydwarf_attack, Greydwarf_shaman_heal
+
+[Greyling.0]
+ConditionHasItem=Greyling_attack
+
+[Hatchling.0]
+ConditionHasItem=hatchling_spit_cold
+
+[Leech.0]
+ConditionHasItem=Leech_BiteAttack
+
+[Leech_cave.0]
+ConditionHasItem=Leech_BiteAttack
+
+[Lox.0]
+ConditionHasItem=lox_bite, lox_stomp
+
+[Lox_Calf.0]
+ConditionHasItem=
+
+[Neck.0]
+ConditionHasItem=Neck_BiteAttack
+
+[Serpent.0]
+ConditionHasItem=Serpent_attack, Serpent_taunt
+
+[Skeleton.0]
+ConditionHasItem=ShieldWood, ShieldBronzeBuckler, skeleton_sword, skeleton_bow
+
+[Skeleton_NoArcher.0]
+ConditionHasItem=ShieldWood, ShieldBronzeBuckler, skeleton_sword
+
+[Skeleton_Poison.0]
+ConditionHasItem=skeleton_mace
+
+[StoneGolem.0]
+ConditionHasItem=StoneGolem_hat, stonegolem_attack1_spike, stonegolem_attack3_spikesweep, StoneGolem_spikes, stonegolem_attack2_left_groundslam, stonegolem_attack_doublesmash, StoneGolem_clubs
+
+[Surtling.0]
+ConditionHasItem=imp_fireball_attack
+
+[TrainingDummy.0]
+ConditionHasItem=
+
+[Troll.0]
+ConditionHasItem=troll_punch, troll_groundslam, troll_throw, troll_log_swing_v, troll_log_swing_h
+
+[Wolf.0]
+ConditionHasItem=Wolf_Attack1, Wolf_Attack2, Wolf_Attack3
+
+[Wraith.0]
+ConditionHasItem=wraith_melee
+
+[FireGolem.0]
+ConditionHasItem=firegolem_groundslam, firegolem_melee1, firegolem_fireball, firegolem_kick1
+
+[GhostWarrior.0]
+ConditionHasItem=
+
+[GoblinBase.0]
+ConditionHasItem=NewGoblinSpear, NewGoblinArmorLeather, NewGoblinShoulderPadLeather, NewGoblinHelmetLeather, NewGoblinArmorIron, GoblinSword, NewGoblinShoulderPadIron, NewGoblinArmBandIron, GoblinShieldBlackMetal, GoblinBow, GoblinClub, GoblinTorch, GoblinShieldWood, GoblinPickAxeIron
+
+[GoblinLoot.0]
+ConditionHasItem=
+
+[GoblinShamanNew.0]
+ConditionHasItem=GoblinShaman_attack_protect, GoblinShaman_attack_poke, GoblinShaman_attack_fireball, NewGoblinShamanStaffBones, NewGoblinHelmetSkull, NewGoblinShamanStaffFeathers, NewGoblinArmorFeathers, NewGoblinArmBandFeathers
+
+[Greydwarf_Purple.0]
+ConditionHasItem=Greydwarf_attack, Greydwarf_throw
+
+[Greydwarf_Purple_Shroom.0]
+ConditionHasItem=Greydwarf_attack, Greydwarf_throw
+
+[IceGolem.0]
+ConditionHasItem=icegolem_taunt, icegolem_jump_groundslam, icegolem_groundslam
+
+[Kraken.0]
+ConditionHasItem=kraken_attack1, kraken_attack2, kraken_attack4, kraken_taunt
+
+[KrakenLD.0]
+ConditionHasItem=kraken_attack1, kraken_attack2, kraken_attack4, kraken_taunt
+
+[ObsidianGolem.0]
+ConditionHasItem=ObsidianGolem_hat, stonegolem_attack1_spike, stonegolem_attack3_spikesweep, ObsidianGolem_spikes, stonegolem_attack2_left_groundslam, stonegolem_attack_doublesmash, ObsidianGolem_clubs
+
+[Molluscan.0]
+ConditionHasItem=Molluscan_attack, Molluscan_attack2, Molluscan_attack3, Molluscan_taunt
+
+[SkeletonWarrior.0]
+ConditionHasItem=SkeletonSwordBronzeLeft
+
+[SkeletonWarriorFire.0]
+ConditionHasItem=SkeletonSwordBronzeLeft
+
+[SkeletonWarriorIce.0]
+ConditionHasItem=SkeletonSwordBronzeLeft
+
+[BlackSpider.0]
+ConditionHasItem=small_spider_attack
+
+[FrostSpider.0]
+ConditionHasItem=spider_leftattack, spider_rightattack, spider_jump, web_attack
+
+[BrownSpider.0]
+ConditionHasItem=spider_leftattack, spider_rightattack, spider_jump, web_attack
+
+[ForestSpider.0]
+ConditionHasItem=spider_leftattack, spider_rightattack, spider_jump, web_attack
+
+[FrigidSpider.0]
+ConditionHasItem=spider_leftattack, spider_rightattack, spider_jump, web_attack
+
+[GreenSpider.0]
+ConditionHasItem=spider_leftattack, spider_rightattack, spider_jump, web_attack
+
+[TanSpider.0]
+ConditionHasItem=spider_leftattack, spider_rightattack, spider_jump, web_attack
+
+[TreeSpider.0]
+ConditionHasItem=spider_leftattack, spider_rightattack, spider_jump, web_attack
+
+[Spider_Boss.0]
+ConditionHasItem=spider_leftattack, spider_rightattack, spider_jump, web_attack
+
+[RRR_GDThornweaver.0]
+ConditionHasItem=RRR_GDThornweaver_shoot, RRR_GDThornweaver_nova
+
+[RRR_TrollTosser.0]
+ConditionHasItem=RRR_TrollTosser_throw, RRR_TrollTosser_slam
+
+[RRR_Grig.0]
+ConditionHasItem=rrr_grig_atk_swipe1, rrr_grig_atk_swipe2, rrr_grig_atk_shadowstep
+
+[RRR_Hostile_T1.0]
+ConditionHasItem=
+
+[RRR_Hostile_T2.0]
+ConditionHasItem=RRR_Hostile_T2_Club_0, RRR_Hostile_T2_Bow_1
+
+[RRR_Hostile_T3.0]
+ConditionHasItem=ArmorLeatherChest, ArmorBronzeLegs, RRR_Hostile_T3_SwordBronze_0, RRR_Hostile_T3_MaceBronze_1, RRR_Hostile_T3_SpearBronze_2, RRR_Hostile_T3_AxeBronze_3, RRR_Hostile_T3_BowFineWood_4
+
+[RRR_Hostile_T4.0]
+ConditionHasItem=ArmorBronzeChest, ArmorTrollLeatherLegs, HelmetBronze, CapeDeerHide, ShieldBronzeBuckler, RRR_Hostile_T4_SwordIron_0, RRR_Hostile_T4_MaceIron_1, RRR_Hostile_T4_SpearBronze_2, RRR_Hostile_T4_AxeIron_3, RRR_Hostile_T4_BowFineWood_4
+
+[RRR_Hostile_T5.0]
+ConditionHasItem=ArmorIronChest, ArmorBronzeLegs, HelmetIron, CapeLinen, ShieldSilver, RRR_Hostile_T5_SwordIron_0, RRR_Hostile_T5_MaceIron_1, RRR_Hostile_T5_SpearElderbark_2, RRR_Hostile_T5_AxeIron_3, RRR_Hostile_T5_BowHuntsman_4
+
+[RRR_Hostile_T6.0]
+ConditionHasItem=ArmorIronChest, ArmorIronLegs, HelmetDrake, CapeLox, ShieldSilver, RRR_Hostile_T6_SwordBlackmetal_0, RRR_Hostile_T6_MaceIron_1, RRR_Hostile_T6_AtgeirBlackmetal_2, RRR_Hostile_T6_AxeBlackMetal_3, RRR_Hostile_T6_BowHuntsman_4
+
+[RRRM_AngryFrozenCorpse.0]
+ConditionHasItem=RRRM_AngryFrozenCorpse@RRRM_AngryFrozenCorpse_Custom_skeleton_bow_0@@@, RRRM_AngryFrozenCorpse@RRRM_AngryFrozenCorpse_Custom_skeleton_bow_1@@@, RRRM_AngryFrozenCorpse@CapeWolf@@@, RRRM_AngryFrozenCorpse@ArmorWolfLegs@@@, RRRM_AngryFrozenCorpse@ArmorIronChest@@@, RRRM_AngryFrozenCorpse@RRRM_AngryFrozenCorpse_Custom_SkeletonSwordSilver_2@@@, RRRM_AngryFrozenCorpse@RRRM_AngryFrozenCorpse_Custom_SkeletonSwordSilver_3@@@, RRRM_AngryFrozenCorpse@RRRM_AngryFrozenCorpse_Custom_SkeletonSwordSilver_4@@@, RRRM_AngryFrozenCorpse@RRRM_AngryFrozenCorpse_Custom_SkeletonSwordSilver_5@@@, RRRM_AngryFrozenCorpse@RRRM_AngryFrozenCorpse_Custom_SkeletonSwordBlackMetalSmite_6@@@, RRRM_AngryFrozenCorpse@ShieldSilver@@@
+
+[RRRM_AshHatchling.0]
+ConditionHasItem=RRRM_AshHatchling@RRRM_AshHatchling_Custom_troll_throw_0@@@, RRRM_AshHatchling@RRRM_AshHatchling_Custom_GoblinKing_Nova_1@@@, RRRM_AshHatchling@RRRM_AshHatchling_Custom_dragon_spit_shotgun_2@@@
+
+[RRRM_AshNeck.0]
+ConditionHasItem=RRRM_AshNeck@RRRM_AshNeck_Custom_troll_groundslam_0@@@, RRRM_AshNeck@RRRM_AshNeck_Custom_troll_groundslam_1@@@
+
+[RRRM_BlackSpider.0]
+ConditionHasItem=RRRM_BlackSpider@spider_attack@@@
+
+[RRRM_BlazingBones.0]
+ConditionHasItem=RRRM_BlazingBones@RRRM_BlazingBones_Custom_SkeletonSwordBlackMetal_0@@@, RRRM_BlazingBones@RRRM_BlazingBones_Custom_SkeletonSwordBlackMetal_1@@@, RRRM_BlazingBones@RRRM_BlazingBones_Custom_SkeletonSwordBlackMetal_2@@@, RRRM_BlazingBones@RRRM_BlazingBones_Custom_imp_fireball_attack_3@@@, RRRM_BlazingBones@RRRM_BlazingBones_Custom_SkeletonSwordBlackMetal_4@@@, RRRM_BlazingBones@ArmorPaddedCuirass@@@, RRRM_BlazingBones@ArmorPaddedGreaves@@@, RRRM_BlazingBones@CapeLinen@@@, RRRM_BlazingBones@ShieldBlackmetal@@@
+
+[RRRM_BlazingDamnedOne.0]
+ConditionHasItem=RRRM_BlazingDamnedOne@RRRM_BlazingDamnedOne_Custom_skeleton_mace_0@@@, RRRM_BlazingDamnedOne@RRRM_BlazingDamnedOne_Custom_skeleton_mace_1@@@, RRRM_BlazingDamnedOne@RRRM_BlazingDamnedOne_Custom_skeleton_mace_2@@@, RRRM_BlazingDamnedOne@RRRM_BlazingDamnedOne_Custom_GoblinKing_Nova_3@@@, RRRM_BlazingDamnedOne@RRRM_BlazingDamnedOne_Custom_skeleton_mace_4@@@, RRRM_BlazingDamnedOne@RRRM_BlazingDamnedOne_Custom_GoblinKing_Meteors_5@@@, RRRM_BlazingDamnedOne@ArmorPaddedCuirass@@@, RRRM_BlazingDamnedOne@ArmorPaddedGreaves@@@, RRRM_BlazingDamnedOne@CapeLox@@@, RRRM_BlazingDamnedOne@ShieldBlackmetalTower@@@
+
+[RRRM_BrownSpider.0]
+ConditionHasItem=RRRM_BrownSpider@spider_leftattack@@@, RRRM_BrownSpider@spider_rightattack@@@, RRRM_BrownSpider@spider_jump@@@, RRRM_BrownSpider@web_attack@@@
+
+[RRRM_BurnedBones.0]
+ConditionHasItem=RRRM_BurnedBones@RRRM_BurnedBones_Custom_skeleton_bow_0@@@, RRRM_BurnedBones@RRRM_BurnedBones_Custom_skeleton_bow_1@@@, RRRM_BurnedBones@ArmorPaddedCuirass@@@, RRRM_BurnedBones@ArmorPaddedGreaves@@@, RRRM_BurnedBones@CapeLinen@@@, RRRM_BurnedBones@RRRM_BurnedBones_Custom_SkeletonSwordBlackMetal_2@@@, RRRM_BurnedBones@RRRM_BurnedBones_Custom_SkeletonSwordBlackMetal_3@@@, RRRM_BurnedBones@RRRM_BurnedBones_Custom_SkeletonSwordBlackMetal_4@@@, RRRM_BurnedBones@RRRM_BurnedBones_Custom_SkeletonSwordBlackMetal_5@@@, RRRM_BurnedBones@RRRM_BurnedBones_Custom_SkeletonSwordBlackMetal_6@@@, RRRM_BurnedBones@ShieldBlackmetal@@@
+
+[RRRM_DamnedOne.0]
+ConditionHasItem=RRRM_DamnedOne@RRRM_DamnedOne_Custom_skeleton_mace_0@@@, RRRM_DamnedOne@RRRM_DamnedOne_Custom_skeleton_mace_1@@@, RRRM_DamnedOne@RRRM_DamnedOne_Custom_skeleton_mace_2@@@, RRRM_DamnedOne@RRRM_DamnedOne_Custom_skeleton_mace_3@@@, RRRM_DamnedOne@RRRM_DamnedOne_Custom_skeleton_mace_4@@@, RRRM_DamnedOne@RRRM_DamnedOne_Custom_imp_fireball_attack_5@@@, RRRM_DamnedOne@ArmorPaddedCuirass@@@, RRRM_DamnedOne@ArmorPaddedGreaves@@@, RRRM_DamnedOne@CapeLox@@@, RRRM_DamnedOne@ShieldBlackmetalTower@@@
+
+[RRRM_DarkProtector.0]
+ConditionHasItem=RRRM_DarkProtector@RRRM_DarkProtector_Custom_gd_king_rootspawn_0@@@, RRRM_DarkProtector@RRRM_DarkProtector_Custom_gd_king_shoot_1@@@, RRRM_DarkProtector@RRRM_DarkProtector_Custom_gd_king_punch_2@@@, RRRM_DarkProtector@RRRM_DarkProtector_Custom_gd_king_stomp_3@@@
+
+[RRRM_DarkSpider.0]
+ConditionHasItem=RRRM_DarkSpider@RRRM_DarkSpider_Custom_Greydwarf_attack_0@@@, RRRM_DarkSpider@RRRM_DarkSpider_Custom_Greydwarf_attack_1@@@, RRRM_DarkSpider@RRRM_DarkSpider_Custom_Greydwarf_attack_2@@@, RRRM_DarkSpider@RRRM_DarkSpider_Custom_spider_jump_3@@@
+
+[RRRM_DevourerFenring.0]
+ConditionHasItem=RRRM_DevourerFenring@RRRM_DevourerFenring_Custom_Fenring_attack_claw_0@@@, RRRM_DevourerFenring@RRRM_DevourerFenring_Custom_Fenring_attack_claw_1@@@, RRRM_DevourerFenring@RRRM_DevourerFenring_Custom_troll_groundslam_2@@@, RRRM_DevourerFenring@RRRM_DevourerFenring_Custom_Fenring_taunt_3@@@
+
+[RRRM_DrownedSoul.0]
+ConditionHasItem=RRRM_DrownedSoul@RRRM_DrownedSoul_Custom_wraith_melee_0@@@, RRRM_DrownedSoul@RRRM_DrownedSoul_Custom_imp_fireball_attack_1@@@, RRRM_DrownedSoul@RRRM_DrownedSoul_Custom_stonegolem_attack2_left_groundslam_2@@@
+
+[RRRM_ElderSurtling.0]
+ConditionHasItem=RRRM_ElderSurtling@RRRM_ElderSurtling_Custom_imp_fireball_attack_0@@@, RRRM_ElderSurtling@RRRM_ElderSurtling_Custom_troll_throw_1@@@, RRRM_ElderSurtling@RRRM_ElderSurtling_Custom_GoblinKing_Beam_2@@@
+
+[RRRM_FireGolem.0]
+ConditionHasItem=RRRM_FireGolem@firegolem_groundslam@@@, RRRM_FireGolem@firegolem_melee1@@@, RRRM_FireGolem@firegolem_fireball@@@, RRRM_FireGolem@firegolem_kick1@@@
+
+[RRRM_ForestSpider.0]
+ConditionHasItem=RRRM_ForestSpider@spider_leftattack@@@, RRRM_ForestSpider@spider_rightattack@@@, RRRM_ForestSpider@spider_jump@@@, RRRM_ForestSpider@web_attack@@@
+
+[RRRM_ForgottenOne.0]
+ConditionHasItem=RRRM_ForgottenOne@RRRM_ForgottenOne_Custom_skeleton_bow_0@@@, RRRM_ForgottenOne@RRRM_ForgottenOne_Custom_skeleton_bow_1@@@, RRRM_ForgottenOne@RRRM_ForgottenOne_Custom_dragon_coldbreath_OLD_2@@@, RRRM_ForgottenOne@RRRM_ForgottenOne_Custom_dragon_claw_right_3@@@, RRRM_ForgottenOne@RRRM_ForgottenOne_Custom_dragon_coldbreath_4@@@, RRRM_ForgottenOne@RRRM_ForgottenOne_Custom_gd_king_shoot_5@@@, RRRM_ForgottenOne@HelmetDrake@@@, RRRM_ForgottenOne@CapeLox@@@, RRRM_ForgottenOne@ArmorWolfLegs@@@, RRRM_ForgottenOne@ArmorIronChest@@@
+
+[RRRM_FrigidSpider.0]
+ConditionHasItem=RRRM_FrigidSpider@spider_leftattack@@@, RRRM_FrigidSpider@spider_rightattack@@@, RRRM_FrigidSpider@spider_jump@@@, RRRM_FrigidSpider@web_attack@@@
+
+[RRRM_FrostSpider.0]
+ConditionHasItem=RRRM_FrostSpider@spider_leftattack@@@, RRRM_FrostSpider@spider_rightattack@@@, RRRM_FrostSpider@spider_jump@@@, RRRM_FrostSpider@web_attack@@@
+
+[RRRM_FrozenCorpse.0]
+ConditionHasItem=RRRM_FrozenCorpse@RRRM_FrozenCorpse_Custom_skeleton_bow_0@@@, RRRM_FrozenCorpse@CapeWolf@@@, RRRM_FrozenCorpse@ArmorWolfLegs@@@, RRRM_FrozenCorpse@ArmorIronChest@@@, RRRM_FrozenCorpse@RRRM_FrozenCorpse_Custom_SkeletonSwordSilver_1@@@, RRRM_FrozenCorpse@RRRM_FrozenCorpse_Custom_SkeletonSwordSilver_2@@@, RRRM_FrozenCorpse@RRRM_FrozenCorpse_Custom_SkeletonSwordSilver_3@@@, RRRM_FrozenCorpse@RRRM_FrozenCorpse_Custom_SkeletonSwordBlackMetalSmite_4@@@, RRRM_FrozenCorpse@ShieldSilver@@@
+
+[RRRM_GhostWarrior.0]
+ConditionHasItem=
+
+[RRRM_GreenSpider.0]
+ConditionHasItem=RRRM_GreenSpider@spider_leftattack@@@, RRRM_GreenSpider@spider_rightattack@@@, RRRM_GreenSpider@spider_jump@@@, RRRM_GreenSpider@web_attack@@@
+
+[RRRM_IceGolem.0]
+ConditionHasItem=RRRM_IceGolem@icegolem_taunt@@@, RRRM_IceGolem@icegolem_jump_groundslam@@@, RRRM_IceGolem@icegolem_groundslam@@@
+
+[RRRM_MotherDarkSpider.0]
+ConditionHasItem=RRRM_MotherDarkSpider@RRRM_MotherDarkSpider_Custom_troll_groundslam_0@@@, RRRM_MotherDarkSpider@RRRM_MotherDarkSpider_Custom_troll_groundslam_1@@@, RRRM_MotherDarkSpider@RRRM_MotherDarkSpider_Custom_Greydwarf_attack_2@@@
+
+[RRRM_PoisonDarkSpider.0]
+ConditionHasItem=RRRM_PoisonDarkSpider@RRRM_PoisonDarkSpider_Custom_Greydwarf_attack_0@@@, RRRM_PoisonDarkSpider@RRRM_PoisonDarkSpider_Custom_Greydwarf_attack_1@@@, RRRM_PoisonDarkSpider@RRRM_PoisonDarkSpider_Custom_Greydwarf_attack_2@@@, RRRM_PoisonDarkSpider@RRRM_PoisonDarkSpider_Custom_dragon_claw_left_3@@@, RRRM_PoisonDarkSpider@RRRM_PoisonDarkSpider_Custom_dragon_claw_right_4@@@
+
+[RRRM_PolarFenring.0]
+ConditionHasItem=RRRM_PolarFenring@RRRM_PolarFenring_Custom_Fenring_attack_claw_0@@@, RRRM_PolarFenring@RRRM_PolarFenring_Custom_troll_groundslam_1@@@, RRRM_PolarFenring@RRRM_PolarFenring_Custom_Fenring_taunt_2@@@
+
+[RRRM_PolarLox.0]
+ConditionHasItem=RRRM_PolarLox@RRRM_PolarLox_Custom_lox_stomp_0@@@, RRRM_PolarLox@RRRM_PolarLox_Custom_lox_bite_1@@@, RRRM_PolarLox@RRRM_PolarLox_Custom_dragon_bite_2@@@
+
+[RRRM_SilverGolem.0]
+ConditionHasItem=RRRM_SilverGolem@RRRM_SilverGolem_Custom_stonegolem_attack2_left_groundslam_0@@@, RRRM_SilverGolem@RRRM_SilverGolem_Custom_stonegolem_attack_doublesmash_1@@@, RRRM_SilverGolem@RRRM_SilverGolem_Custom_stonegolem_attack_doublesmash_2@@@, RRRM_SilverGolem@RRRM_SilverGolem_Custom_gd_king_shoot_3@@@, RRRM_SilverGolem@StoneGolem_clubs@@@, RRRM_SilverGolem@StoneGolem_hat@@@
+
+[RRRM_SkeletonWarrior.0]
+ConditionHasItem=
+
+[RRRM_SkeletonWarriorFire.0]
+ConditionHasItem=
+
+[RRRM_SkeletonWarriorIce.0]
+ConditionHasItem=
+
+[RRRM_SmallAshNeck.0]
+ConditionHasItem=RRRM_SmallAshNeck@RRRM_SmallAshNeck_Custom_Neck_BiteAttack_0@@@, RRRM_SmallAshNeck@RRRM_SmallAshNeck_Custom_imp_fireball_attack_1@@@
+
+[RRRM_SmallPolarLox.0]
+ConditionHasItem=RRRM_SmallPolarLox@RRRM_SmallPolarLox_Custom_lox_bite_0@@@
+
+[RRRM_SmallPolarSerpent.0]
+ConditionHasItem=RRRM_SmallPolarSerpent@RRRM_SmallPolarSerpent_Custom_Serpent_attack_0@@@, RRRM_SmallPolarSerpent@RRRM_SmallPolarSerpent_Custom_troll_groundslam_1@@@, RRRM_SmallPolarSerpent@RRRM_SmallPolarSerpent_Custom_hatchling_spit_cold_2@@@
+
+[RRRM_StormFenring.0]
+ConditionHasItem=RRRM_StormFenring@RRRM_StormFenring_Custom_Fenring_attack_claw_0@@@, RRRM_StormFenring@RRRM_StormFenring_Custom_Fenring_attack_claw_1@@@, RRRM_StormFenring@RRRM_StormFenring_Custom_troll_groundslam_2@@@, RRRM_StormFenring@RRRM_StormFenring_Custom_Eikthyr_charge_3@@@
+
+[RRRM_StormHatchling.0]
+ConditionHasItem=RRRM_StormHatchling@RRRM_StormHatchling_Custom_stonegolem_attack_doublesmash_0@@@, RRRM_StormHatchling@RRRM_StormHatchling_Custom_gd_king_punch_1@@@, RRRM_StormHatchling@RRRM_StormHatchling_Custom_Eikthyr_stomp_2@@@
+
+[RRRM_StormWolf.0]
+ConditionHasItem=RRRM_StormWolf@RRRM_StormWolf_Custom_Wolf_Attack1_0@@@, RRRM_StormWolf@RRRM_StormWolf_Custom_Wolf_Attack2_1@@@, RRRM_StormWolf@RRRM_StormWolf_Custom_Eikthyr_charge_2@@@
+
+[RRRN_Svartalfr.0]
+ConditionHasItem=RRRN_Svartalfr@RRRN_Svartalfr_Custom_SwordIron_0@@@, RRRN_Svartalfr@RRRN_Svartalfr_Custom_SwordIron_1@@@, RRRN_Svartalfr@RRRN_Svartalfr_Custom_Greydwarf_attack_2@@@, RRRN_Svartalfr@RRRN_Svartalfr_Custom_Greydwarf_attack_3@@@, RRRN_Svartalfr@RRRN_Svartalfr_Custom_stonegolem_attack_sonicboom_NOTUSED_4@@@, RRRN_Svartalfr@ArmorIronLegs@@@, RRRN_Svartalfr@ArmorPaddedCuirass@@@, RRRN_Svartalfr@CapeLinen@@@, RRRN_Svartalfr@ShieldBronzeBuckler@@@, RRRN_Svartalfr@HelmetTrollLeather@@@
+
+[RRRN_SvartalfrArcher.0]
+ConditionHasItem=RRRN_SvartalfrArcher@RRRN_SvartalfrArcher_Custom_BowHuntsman_0@@@, RRRN_SvartalfrArcher@RRRN_SvartalfrArcher_Custom_BowHuntsman_1@@@, RRRN_SvartalfrArcher@ArmorIronLegs@@@, RRRN_SvartalfrArcher@ArmorPaddedCuirass@@@, RRRN_SvartalfrArcher@CapeLinen@@@, RRRN_SvartalfrArcher@HelmetTrollLeather@@@
+
+[RRRN_SvartalfrBrigade.0]
+ConditionHasItem=RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_SwordIron_0@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_SwordIron_1@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_Greydwarf_attack_2@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_Greydwarf_attack_3@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_stonegolem_attack_sonicboom_NOTUSED_4@@@, RRRN_SvartalfrBrigade@ArmorIronLegs@@@, RRRN_SvartalfrBrigade@ArmorPaddedCuirass@@@, RRRN_SvartalfrBrigade@CapeLinen@@@, RRRN_SvartalfrBrigade@ShieldBronzeBuckler@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_BowHuntsman_5@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_BowHuntsman_6@@@, RRRN_SvartalfrBrigade@HelmetTrollLeather@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_Greydwarf_throw_7@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_Greydwarf_shaman_heal_8@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_dragon_claw_right_9@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_SledgeStagbreaker_10@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_SledgeStagbreaker_11@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_SledgeStagbreaker_12@@@, RRRN_SvartalfrBrigade@RRRN_SvartalfrBrigade_Custom_SledgeStagbreaker_13@@@, RRRN_SvartalfrBrigade@HelmetPadded@@@, RRRN_SvartalfrBrigade@CapeLox@@@
+
+[RRRN_SvartalfrHeavy.0]
+ConditionHasItem=RRRN_SvartalfrHeavy@RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_0@@@, RRRN_SvartalfrHeavy@RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1@@@, RRRN_SvartalfrHeavy@RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_2@@@, RRRN_SvartalfrHeavy@RRRN_SvartalfrHeavy_Custom_Greydwarf_attack_3@@@, RRRN_SvartalfrHeavy@RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_4@@@, RRRN_SvartalfrHeavy@ArmorIronLegs@@@, RRRN_SvartalfrHeavy@ArmorPaddedCuirass@@@, RRRN_SvartalfrHeavy@HelmetPadded@@@, RRRN_SvartalfrHeavy@CapeLox@@@
+
+[RRRN_SvartalfrMage.0]
+ConditionHasItem=RRRN_SvartalfrMage@RRRN_SvartalfrMage_Custom_Greydwarf_throw_0@@@, RRRN_SvartalfrMage@RRRN_SvartalfrMage_Custom_Greydwarf_shaman_heal_1@@@, RRRN_SvartalfrMage@RRRN_SvartalfrMage_Custom_dragon_claw_right_2@@@, RRRN_SvartalfrMage@ArmorIronLegs@@@, RRRN_SvartalfrMage@ArmorPaddedCuirass@@@, RRRN_SvartalfrMage@CapeLinen@@@, RRRN_SvartalfrMage@HelmetTrollLeather@@@
+
+[RRRN_SvartalfrQueen.0]
+ConditionHasItem=RRRN_SvartalfrQueen@RRRN_SvartalfrQueen_Custom_Greydwarf_throw_0@@@, RRRN_SvartalfrQueen@RRRN_SvartalfrQueen_Custom_gd_king_rootspawn_1@@@, RRRN_SvartalfrQueen@ArmorIronLegs@@@, RRRN_SvartalfrQueen@ArmorPaddedCuirass@@@, RRRN_SvartalfrQueen@CapeLinen@@@
+
+[RRRM_SwollenBody.0]
+ConditionHasItem=RRRM_SwollenBody@RRRM_SwollenBody_Custom_Greydwarf_throw_0@@@, RRRM_SwollenBody@RRRM_SwollenBody_Custom_blob_attack_aoe_1@@@, RRRM_SwollenBody@RRRM_SwollenBody_Custom_dragon_claw_right_2@@@
+
+[RRRM_TanSpider.0]
+ConditionHasItem=RRRM_TanSpider@spider_leftattack@@@, RRRM_TanSpider@spider_rightattack@@@, RRRM_TanSpider@spider_jump@@@, RRRM_TanSpider@web_attack@@@
+
+[RRRM_TreeSpider.0]
+ConditionHasItem=RRRM_TreeSpider@spider_leftattack@@@, RRRM_TreeSpider@spider_rightattack@@@, RRRM_TreeSpider@spider_jump@@@, RRRM_TreeSpider@web_attack@@@
+
